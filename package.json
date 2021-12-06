@@ -1,0 +1,14 @@
+{
+  "name": "kata-spiral-matrix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:icottambbc/kata-spiral-matrix.git",
+  "author": "icottambbc <ian.cottam@bbc.co.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
