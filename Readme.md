@@ -11,4 +11,4 @@ To run the solution perform the following commands:
 yarn
 yarn test
 ```
-The solution itself is at /index.js
+The solution itself is at [index.js](index.js)
